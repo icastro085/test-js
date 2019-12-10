@@ -1,0 +1,32 @@
+.form-login {
+  width: calc(100% - 20px);
+  height: auto;
+  padding: 10px;
+  background-color: #FFF;
+  transform: translate(-50%, -50%);
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  border-radius: 5px;
+
+  input {
+    margin: 10px 0;
+    width: 100%;
+  }
+}
+
+
+.logged-in-message {
+  transform: translate(-50%, -50%);
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  background-color: aquamarine;
+  color: #FFF;
+  font-size: 22px;
+  line-height: 100px;
+  text-align: center;
+}

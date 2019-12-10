@@ -1,0 +1,5 @@
+reporter: spec
+require: test/api/setup.js
+retries: 1
+spec: test/api/**/*.js
+watch: false

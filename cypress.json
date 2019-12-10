@@ -1,0 +1,9 @@
+{
+  "baseUrl": "http://localhost:4211",
+  "fixturesFolder": "test/e2e/fixtures",
+  "integrationFolder": "test/e2e/specs",
+  "screenshotsFolder": "test/e2e/screenshots",
+  "pluginsFile": false,
+  "supportFile": false,
+  "videosFolder": "test/e2e/videos"
+}
